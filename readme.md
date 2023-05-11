@@ -1,4 +1,4 @@
-This code in the implement for our paper: 
+This code in the implement for our paper in IJCAI 2023: 
 
 Exploring Leximin Principle for Fair Core-Selecting Combinatorial Auctions: Payment Rule Design and Implementation
 
